@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kingOfKlondike
-- 👀 I’m interested in Android RIL Driver
+- 👀 I’m interested in Android RIL Driver(including Android Telephony)
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on reconstructing my RIL project with C++
 - 📫 How to reach me --> By e-mail pls
